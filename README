@@ -1,0 +1,4 @@
+#Necessário para a aplicação
+
+Necessário criar uma pasta com o nome "data" sem aspas e apontar o mongod para esa pasta
+Ex: "mongod --dbpath seu-caminho/data"
